@@ -1,1 +1,11 @@
 # cloud_presentation
+[page2.html](https://github.com/user-attachments/files/23842024/page2.html)
+[page3.html](https://github.com/user-attachments/files/23842025/page3.html)[index.html](https://github.com/user-attachments/files/23842034/index.html)
+![1](https://github.com/user-attachments/assets/1215407f-c121-404a-8ade-17be12e21874)
+[page10.html](https://github.com/user-attachments/files/23842032/page10.html)
+[page9.html](https://github.com/user-attachments/files/23842031/page9.html)
+[page8.html](https://github.com/user-attachments/files/23842030/page8.html)
+[page7.html](https://github.com/user-attachments/files/23842029/page7.html)
+[page6.html](https://github.com/user-attachments/files/23842028/page6.html)
+[page5.html](https://github.com/user-attachments/files/23842027/page5.html)
+[page4.html](https://github.com/user-attachments/files/23842026/page4.html)
